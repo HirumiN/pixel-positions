@@ -5,7 +5,7 @@
 
     if ($size === 'base') {
         // Tambahkan kelas khusus jika ukuran adalah 'base'
-        $classes .= " px-5 py-1 text-sm";
+        $classes .= " px-4 py-1 text-sm";
     }
     if ($size === 'small') {
         $classes .= " px-3 py-1 text-2xs";
